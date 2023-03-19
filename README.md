@@ -7,6 +7,6 @@ Please review the code before running it, as it might be wrong or outdated. I ne
 CoinEx recently announced [Spot Grid](https://announcement.coinex.com/hc/en-us/articles/13939012802708), which does the same thing as this script, but probably better. Consider using that instead
 
 #### Credits to:
-- [beginerSE](https://github.com/beginerSE/) for the [script](https://github.com/beginerSE/TradeBot-for-Coinex) that I built this off of
+- [beginerSE](https://github.com/beginerSE/) for making the [script](https://github.com/beginerSE/TradeBot-for-Coinex) that I built this off of
 - [CoinEx](https://github.com/coinexcom/) for making the [API](https://github.com/coinexcom/coinex_exchange_api) that this uses
 - [EchterAgo](https://github.com/EchterAgo/) for making the [Python Coinex API wrapper](https://github.com/EchterAgo/coinex)
